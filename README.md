@@ -20,7 +20,7 @@ vin-lookup/
 This is a full-stack application to look up vehicle details from a VIN number using the [NHTSA VIN Decoder API](https://vpic.nhtsa.dot.gov/api/). It allows:
 
 * Entering a VIN number in a web form
-* Fetching Make/Model/Year using the API
+* Fetching Make, Model, Year using the API
 * Storing it in a MySQL database
 * Displaying lookup history in a Material UI table
 
